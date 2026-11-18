@@ -1,0 +1,12 @@
+Management Brief — Sample Dataset
+
+Business context:
+The sales CSV contains six months of sample revenue, order volume, and returns for two regions/products. North sells Widget A; South sells Widget B. These are fictional demonstration records, not real business results.
+
+Questions for the AI team:
+1. Compare monthly revenue patterns by region/product.
+2. Check whether returns are a potential operational concern.
+3. Recommend practical follow-up analysis without assuming causes that are not present in the data.
+
+Constraints:
+Do not claim a trend proves causation. Call out the small sample size and the lack of cost, customer, and reason-for-return fields.

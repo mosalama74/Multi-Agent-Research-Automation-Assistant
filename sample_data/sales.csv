@@ -1,0 +1,13 @@
+month,region,product,revenue,orders,returns
+2026-01,North,Widget A,18500,370,14
+2026-01,South,Widget B,14200,284,18
+2026-02,North,Widget A,20100,402,12
+2026-02,South,Widget B,15100,302,20
+2026-03,North,Widget A,22400,448,11
+2026-03,South,Widget B,14900,298,27
+2026-04,North,Widget A,21900,438,15
+2026-04,South,Widget B,16400,328,22
+2026-05,North,Widget A,24300,486,10
+2026-05,South,Widget B,17200,344,19
+2026-06,North,Widget A,25800,516,9
+2026-06,South,Widget B,16800,336,31

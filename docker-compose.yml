@@ -1,0 +1,16 @@
+services:
+  agentflow:
+    build: .
+    container_name: agentflow-multi-agent
+    ports:
+      - "8501:8501"
+    env_file:
+      - .env
+    environment:
+      APP_DB_PATH: /app/data/runs.db
+    volumes:
+      - agentflow_data:/app/data
+    restart: unless-stopped
+
+volumes:
+  agentflow_data:
